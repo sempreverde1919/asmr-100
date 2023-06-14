@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=DfDPJqD3FjI&list=PLkC56g8fboI0HghByzVuD2Vz8ROUXf
 https://www.youtube.com/watch?v=gRyvG7PZ4m0&list=PLkC56g8fboI0HghByzVuD2Vz8ROUXfF_j&index=2&pp=iAQB
 + carriage return in writing area
 + wrapper for option groups
+
+#3 Password Generator                     
+https://www.youtube.com/watch?v=825u2Puaej0&list=PLkC56g8fboI0HghByzVuD2Vz8ROUXfF_j&index=3&pp=iAQB
